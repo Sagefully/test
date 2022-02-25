@@ -51,6 +51,9 @@
       </ul>
     </div>
     <div class="navbar-end">
-      <a class="btn">Get started</a>
+      <div class="bg-base-300 rounded-md p-2 space-x-2">
+        <a href="" style="p-2">Chat</a>
+        <a href="" style="p-2">Konto</a>
+      </div>
     </div>
   </div>
