@@ -1,4 +1,4 @@
-<footer class="footer p-10 bg-base-200 text-base-content md:flex md:justify-around">
+<footer class="footer p-10 bg-base-200 text-base-content md:flex md:justify-around rounded-b-md">
   <div>
     <span class="footer-title">Grönodling</span> 
     <p class="">Hjortmossegatan 170 <br>
